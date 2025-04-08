@@ -27,28 +27,29 @@ HoverLine is a modern and interactive menu hover effect that adds a dynamic line
 <br>
 <span>Desktop Design</span><br/>
 <a href="#" target="_blank" >
-<img src="./" width="575px"/>
+<img src="./landingPageNavBar.gif" width="575px"/>
 </a>
 
 <br>
 <span>Desktop UI UX Design</span><br/>
 <a href="#" target="_blank" >
-<img src="./" width="575px"/>
+<img src="./landingPageNavBarHoverUIUXLayout.gif" width="575px"/>
 </a>
 <br />
 <span>Desktop Design UI UX Layout</span><br/>
 <a href="#" target="_blank" >
-<img src="./" width="325px"/>
-<img src="./" width="325px"/>
+<img src="./landingPageNavBarUIUXLayout.png" width="325px"/>
+<img src="./landingPageNavBarHoverUIUXLayout.png" width="325px"/>
+
 </a>
 <br />
 <span>Desktop Design</span><br/>
 <a href="#" target="_blank" >
-<img src="./" width="325px"/>
-<img src="./" width="325px"/>
+<img src="./landingPageNavBar.png" width="325px"/>
+<img src="./landingPageNavBarHover.png" width="325px"/>
 </a>
 
 <span>Cover</span><br/>
 <a href="#" target="_blank" >
-<img src="./" width="575px"/>
+<img src="./cover.png" width="575px"/>
 </a>
